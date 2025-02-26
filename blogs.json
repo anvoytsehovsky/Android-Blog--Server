@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering Markdown: A Beginner's Guide to formatting like a Pro!",
+    "thumbnail_url": "https://github.com/anvoytsehovsky/Android-Blog--Server/blob/main/images/markdown.jpeg?raw=true",
+    "content_url": "https://raw.githubusercontent.com/anvoytsehovsky/Android-Blog--Server/refs/heads/main/blogs/blog1.md"
+  },
+  {
+    "id": 2,
+    "title": "Understanding JSON: A Comprehensive Guide",
+    "thumbnail_url": "https://github.com/anvoytsehovsky/Android-Blog--Server/blob/main/images/json.jpeg?raw=true",
+    "content_url": "https://raw.githubusercontent.com/anvoytsehovsky/Android-Blog--Server/refs/heads/main/blogs/blog2.md"
+  },
+  {
+    "id": 3,
+    "title": "The Complete Guide to Room Database in Android for Efficient Data Storage",
+    "thumbnail_url": "https://github.com/anvoytsehovsky/Android-Blog--Server/blob/main/images/room.jpeg?raw=true",
+    "content_url": "https://raw.githubusercontent.com/anvoytsehovsky/Android-Blog--Server/refs/heads/main/blogs/blog3.md"
+  },
+]
